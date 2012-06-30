@@ -5,9 +5,8 @@
 _This program is licensed under the MIT License (see LICENSE.txt)_
 
 See original project [here](http://django-tinymce.googlecode.com)
-For Documentation see [here](http://django-tinymce.readthedocs.org/en/latest/index.html)
 
-~~~
+For Documentation see [here](http://django-tinymce.readthedocs.org/en/latest/index.html)
 
 **[Seb Ashton](http://sebashton.com)**
 
