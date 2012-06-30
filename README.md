@@ -1,7 +1,7 @@
 #Diet TinyMCE#
 ##This Django application provides a Diet version of the TinyMCE widget by Joost Cassee##
 
-####Copyright (C) 2008 Joost Cassee####
+####Copyright (C) 2008 [Joost Cassee](http://joost@cassee.net)####
 _This program is licensed under the MIT License (see LICENSE.txt)_
 
 See original project [here](http://django-tinymce.googlecode.com)
